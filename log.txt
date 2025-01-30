@@ -1,0 +1,2 @@
+7fd2940 (HEAD -> main) Добавил status.txt
+d64439e Добавил Readme
